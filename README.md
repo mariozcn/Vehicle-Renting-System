@@ -28,20 +28,20 @@ This is a simple console-based **vehicle rental management system** written in C
 1. **Clone the repository**:
    Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/mariozcn/Vehical-Rental-System-Console.git
+   git clone https://github.com/mariozcn/Vehicle-Renting-System.git
    ```
 
 2. **Navigate to the project directory**:
    Open a terminal (or Command Prompt) and navigate to the folder where the project is stored:
    ```bash
-   cd Vehical-Rental-System-Console
+   cd Vehicle-Renting-System
    ```
 
 3. **Open the project in Visual Studio or Visual Studio Code**:
    - If you're using **Visual Studio**:
-     - Open the `VehicleRentalSystem.sln` file.
+     - Open the `VehicleRentingSystem.sln` file.
    - If you're using **Visual Studio Code**:
-     - Open the `VehicleRentalSystem` folder in VS Code.
+     - Open the `VehicleRentingSystem` folder in VS Code.
 
 4. **Run the application**:
    - In **Visual Studio**, press **F5** or click the "Start" button to run the program.
