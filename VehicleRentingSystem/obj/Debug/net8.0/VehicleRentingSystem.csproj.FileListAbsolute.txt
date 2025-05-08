@@ -1,0 +1,14 @@
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\obj\Debug\net8.0\VehicleRentingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\obj\Debug\net8.0\VehicleRentingSystem.AssemblyInfoInputs.cache
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\obj\Debug\net8.0\VehicleRentingSystem.AssemblyInfo.cs
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\obj\Debug\net8.0\VehicleRentingSystem.csproj.CoreCompileInputs.cache
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\bin\Debug\net8.0\VehicleRentingSystem.exe
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\bin\Debug\net8.0\VehicleRentingSystem.deps.json
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\bin\Debug\net8.0\VehicleRentingSystem.runtimeconfig.json
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\bin\Debug\net8.0\VehicleRentingSystem.dll
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\bin\Debug\net8.0\VehicleRentingSystem.pdb
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\obj\Debug\net8.0\VehicleRentingSystem.dll
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\obj\Debug\net8.0\refint\VehicleRentingSystem.dll
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\obj\Debug\net8.0\VehicleRentingSystem.pdb
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\obj\Debug\net8.0\VehicleRentingSystem.genruntimeconfig.cache
+C:\Users\mario\Desktop\VehicleRentingSystem\VehicleRentingSystem\obj\Debug\net8.0\ref\VehicleRentingSystem.dll
